@@ -1,0 +1,8 @@
+Flask
+flask-cors
+cryptography
+openpyxl
+pdfplumber
+reportlab
+xhtml2pdf
+pyinstaller
